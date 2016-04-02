@@ -1,2 +1,2 @@
-# Log-RegBI_azienda
-File di login e registrazione azienda 
+# Modifiche e sincronizzazione con il login
+Sincronizzato il menu e le modifche con il login
